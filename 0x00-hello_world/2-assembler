@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILE -o./${CFILE//'.C'/'.S}
+gcc -c $CFILE -o./${CFILE//'.c'/'.s'}
