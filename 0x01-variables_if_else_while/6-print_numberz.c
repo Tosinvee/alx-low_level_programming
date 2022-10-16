@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - act as the starting point for the vawulence
- *Return: zero for the vawulence
+ *main - serves as the starting point
+ *Return: 0
  *
  */
 
