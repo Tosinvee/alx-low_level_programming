@@ -13,7 +13,7 @@ int main(void)
 
 	char sh;
 
-	for (b = 32; b < 42; b++)
+	for (b = 48; b < 58; b++)
 
 	{
 
