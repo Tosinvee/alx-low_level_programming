@@ -1,19 +1,14 @@
 #include "main.h"
 
 
-
 /**
  * main- act as the starting point
  * Return: value zero
  */
 
-
 int main(void)
-
 {
-
 	int i;
-
 
 
 	i = 0;
@@ -23,5 +18,4 @@ int main(void)
 
 
 	return (0);
-
 }
